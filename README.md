@@ -1,4 +1,4 @@
-### Плагин для игры на Minecraft Серверах.
+## Плагин для игры в Minecraft
 
 ![img](https://user-images.githubusercontent.com/87089735/126653506-bb1e3190-f4de-4fef-bfe2-c56a285c8dcd.png)
 
